@@ -24,7 +24,10 @@ To get started with the MovieFlix project, follow these steps:
 
 1. Clone the repository:
 
-   git clone https://github.com/geoffreykithuku/movieflix.git
+   ```bash
+      git clone https://github.com/geoffreykithuku/movieflix.git
+
+   ```
 
 2. Open the project in your preferred code editor.
 
@@ -33,13 +36,14 @@ To get started with the MovieFlix project, follow these steps:
 4. In the script.js file, replace apiKey with your own API key:
 
    ```javascript
-      const apiKey = "YOUR_API_KEY";
+   const apiKey = "YOUR_API_KEY";
+   ```
 
 5. Open the index.html file in a web browser or use a development server to run the application.
 
 ## Usage
 
- - Enter a movie title in the search input field.
+- Enter a movie title in the search input field.
 
 - Click the search button or press Enter.
 
